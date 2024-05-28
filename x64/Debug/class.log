@@ -1,0 +1,5 @@
+﻿  BankAccount.cpp
+C:\Users\Alex\source\repos\class\class\BankAccount.cpp(71,90): warning C4390: ';': empty controlled statement found; is this the intent?
+  Source.cpp
+  Generating Code...
+  class.vcxproj -> C:\Users\Alex\source\repos\class\x64\Debug\class.exe

@@ -1,0 +1,5 @@
+﻿  Point.cpp
+  Points.cpp
+C:\Users\Alex\source\repos\class\Point\Points.cpp(22,11): error C2365: 'pointC': redefinition; previous definition was 'function'
+C:\Users\Alex\source\repos\class\Point\Points.cpp(17,11): message : see declaration of 'pointC'
+  Generating Code...
